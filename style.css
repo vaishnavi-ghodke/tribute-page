@@ -1,0 +1,61 @@
+#h{
+    text-align: center;
+    font-size: larger;
+    margin-top: 10px;
+}
+
+
+
+
+.mycard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+
+}
+
+.card-body{
+    text-align: center;
+    color: white;
+}
+
+.card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+ #pic{
+    border-radius: 100px;
+ }
+
+ .header{
+   margin-top: 30px;
+   margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: burlywood;
+ }
+
+ .text{
+    text-align: justify;
+    padding: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: black;
+    font-style: normal;
+    font-size: large;
+ }
+
+ .h4{
+    margin-left: 100px;
+ }
+
+ .image{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 80%;
+ }
